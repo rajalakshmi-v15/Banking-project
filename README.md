@@ -1,2 +1,3 @@
-# Banking-project
-A Python based banking application using file handling and and which also uses Tkinter module for a user friendly GUI. 
+#Banking Application... 
+
+The Banking Application Project created using Python-GUI(For creation of project) and file handling to use various method of file accessing
